@@ -1,0 +1,306 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Notícias",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "BBC",
+        "type": "",
+        "img": "https://play-lh.googleusercontent.com/kT9VQDuQbsMbVyXnd2xLljzz8wN0kdcZNglIW0_W8C_TCltYRczC4j3v33_ePzuPvKM=w480-h960-rw",
+        "url": "https://www.bbc.com/"
+      },
+      {
+        "item_id": 2,
+        "text": "Observador",
+        "type": "",
+        "img": "https://play-lh.googleusercontent.com/sFZ3KGuYrolNm7pXvpSwgUURO8u-BHoQ1Bqz2R5FXNgHMJaGf-6FSR4O7vmKT_Wiwgo=w480-h960-rw",
+        "url": "https://observador.pt/"
+      },
+      {
+        "item_id": 3,
+        "text": "ElPaís",
+        "type": "",
+        "img": "https://play-lh.googleusercontent.com/NYeRvpSxP2NLcfjwikdU6IxOC-FnPdgRbYcgEEiTFxrZcbXAKaBahhwmD-BIGDAxm9s",
+        "url": "https://elpais.com/"
+      }
+    ]
+  },
+  {
+    "category_id": 1,
+    "category_name": "Entretenimento",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "Paolo fromTOKYO",
+        "type": "youtube",
+        "img": "https://yt3.ggpht.com/ytc/AMLnZu_JZ7DAHVGNVm_k3EgEcivd0UXdVXNnPaPRgYWITg=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@PaolofromTOKYO/videos"
+      },
+      {
+        "item_id": 2,
+        "text": "Cortes do Casimito [OFICIAL]",
+        "type": "youtube",
+        "img": "https://yt3.ggpht.com/ytc/AMLnZu9fa_KX_vu6mEzvQo8WIZbZ_8K1wjp6UXuY6KdY=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@CortesdoCasimitoOFICIAL/videos"
+      },
+      {
+        "item_id": 3,
+        "text": "De Sola a Dez",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_kpE7yFEI1iPJQZ5Uolm9_QyVGFFCoq0bpItDLf-0nzleQ=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/playlist?list=PLoivxUjiVMgpsVDyx3ufgUDMV4-4Rahtt"
+      },
+      {
+        "item_id": 4,
+        "text": "Casimiro",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/b4YBVjlAT6GJSnkmbJUl4rODIgu_F_RKWmZGAnqEo2X2Iv-NEpb_mxHcMuaGCZFwFVReaEZl=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@CasimiroMiguel/videos"
+      },
+      {
+        "item_id": 5,
+        "text": "minutephysics",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_mNlRy8Ablr-4VtAT6eDe7ED-3tfNFZ0FwhEYdtc6B_oQ=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@MinutePhysics/videos"
+      },
+      {
+        "item_id": 6,
+        "text": "Tá Gravando",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/lv89zaDTjbhmEXO7WVwRfJRstFz-hjz8-w2xHBtYkkjbjwPhN_R0sUVce4lqlXNmqWdV_-9PT5g=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/c/T%C3%A1Gravandoo/videos"
+      },
+      {
+        "item_id": 7,
+        "text": "Aprofundo",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/2O9YZhZwf3GixCUoxQtynp_UIUqnQOz-22zW0oqLWhSogfMl9FlD4ilVv072YDUD4jUfeOj1=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@Aprofundo/videos"
+      },
+      {
+        "item_id": 8,
+        "text": "Baka Gaijin",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/yaLSWBWArUmAodTx6FpRRhf5BuDfjX8bvqzVUD_Gnxk9IoB4XL3OruigWAIN9-ensK_jvzNY=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@BakaGaijinn/videos"
+      },
+      {
+        "item_id": 9,
+        "text": "Nômade Raiz",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/Y9W8QGr5YXZbXNhH0wKEEtHcDZcxushapCI5DSoRH8gmASx35Hrb1sf7Jtyd7dozHjwGlFz7aVs=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@andrenomaderaiz/videos"
+      },
+      {
+        "item_id": 9,
+        "text": "Forrest Galante",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_kgGG63fxnVe1Ji12ESlbccXitw_o6b5EUNAYuWKkpw434=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@ForrestGalante/videos"
+      },
+      {
+        "item_id": 9,
+        "text": "KiSH-Log 키쉬의 브이로그",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/wMleAtv_Z_bnU4qRV1CfCVDJUKa9SVP0atwamVsy50mMFB8rRkFmbUDyO8DugYVB5LCiMEngfsc=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@KiSHLog/videos"
+      },
+      {
+        "item_id": 10,
+        "text": "Inteligência Limitada",
+        "type": "spotify",
+        "img": "https://yt3.googleusercontent.com/2GryOij-GwwiaE0MlkB-wZPYRG-wVZNsClgFQIjukKWImTAa1JS-EfJBwqsWbwIyMFJ3lGApxQ=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=3fab97261bdd490b"
+      },
+      {
+        "item_id": 11,
+        "text": "É tudo culpa da cultura",
+        "type": "spotify",
+        "img": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cc8c987628e96ce7f7df043bd",
+        "url": " https://open.spotify.com/show/7k0uVGkuMVWEQICsd3EPO7?si=f782c0b85ee54750"
+      },
+      {
+        "item_id": 12,
+        "text": "Os Sócios Podcast",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab67656300005f1f5a53718b53cf3e0c0d2b8890",
+        "url": "https://open.spotify.com/show/17bkR8GX6FmyKYvhQv4nOi?si=ce4b0bcfcc424269"
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "category_name": "Produtividade",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "Mariana Vieira",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/TrwxnQuBU8OT95TXBpnGx1IhkbeWFcowa_7av9Bmhgv4noESvWFWhVp0IJOu_ZqGLr6J--ox3w=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@mariana-vieira/videos"
+      },
+      {
+        "item_id": 2,
+        "text": "Ali Abdaal",
+        "type": "youtube",
+        "img": "https://yt3.ggpht.com/ytc/AMLnZu8jMuRdEFMazCjhD3Ox-ItOtqT8vtoEkAbjuDis=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@aliabdaal/videos"
+      },
+      {
+        "item_id": 3,
+        "text": "Luana Carolina",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/4vGTVCv2qLBUE6dbG1JOeMIwS_K_VaRK6KVktHIHlKRlaNi8ltBNS0b6lbzrWAZ4NMldT87V6A=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@luanacarolina.s/videos"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "category_name": "Psicologia",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "Entiende Tu Mente",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab67656300005f1f997d66105c826d42ea027261",
+        "url": "https://open.spotify.com/show/0sGGLIDnnijRPLef7InllD?si=29b9423843db4074"
+      },
+      {
+        "item_id": 2,
+        "text": "El Podcast de Marian Rojas Estapé",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab67656300005f1f1287a007991807b6f867fcfc",
+        "url": "https://open.spotify.com/show/2xV7Vx7NQgAC8vMt2vZNnE?si=2304d636dcaf4ef4"
+      },
+      {
+        "item_id": 3,
+        "text": "El Podcast de Elva Abril",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab6765630000ba8a2113a0e3d7637b29b631d7f6",
+        "url": "https://open.spotify.com/show/0JpeOAWulmJKazkuALTK3e?si=e3b16b59fc42423f"
+      },
+      {
+        "item_id": 4,
+        "text": "Desarrollo profesional",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab67656300005f1f7b347a20a390dbc25c9988f0",
+        "url": "https://open.spotify.com/show/3XBUhm7s4UIsMSXyKRW5Xl?si=24612edf5e4b4206"
+      },
+      {
+        "item_id": 5,
+        "text": "Eckhart Tolle: Essential Teachings",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab6765630000ba8a71fef74162e2a059d504d6a3",
+        "url": "https://open.spotify.com/show/7i4OI4Oi7kym2fSauBukJp?si=3e7a4910adf145fc"
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "category_name": "História",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "E o Resto é História",
+        "type": "spotify",
+        "img": "https://i.scdn.co/image/ab67656300005f1fab7b3b5e72545f81cc8a3cc7",
+        "url": "https://open.spotify.com/show/5JmwBtYoHvLvArhezoib4g?si=a90476f1c46a43e6"
+      },
+      {
+        "item_id": 2,
+        "text": "Canal Nostalgia",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/yUEPj5YEPD65hBdFCDkS9a96qKqotTYJTGTjQ35MjryezXQwfGyYHtJ4cMU3Z_X_DwTEfcuwZQ=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@nostalgia/videos"
+      }
+    ]
+  },
+  {
+    "category_id": 7,
+    "category_name": "Personal Finance",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "A Cor do Dinheiro",
+        "type": "youtube",
+        "img": "https://yt3.ggpht.com/ytc/AMLnZu-y2UD9qpsiFjyodydT9DxWU1a_kWoidgE2wwsu_w=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/c/ACorDoDinheiro/videos"
+      }
+    ]
+  },
+  {
+    "category_id": 9,
+    "category_name": "Música",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "The Punk Rock MBA",
+        "type": "youtube",
+        "img": "https://yt3.ggpht.com/ytc/AMLnZu8auhnhNZDZzAe-RNrba7-j8Wdesmb9VWxQMFN0hA=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@ThePunkRockMBA/videos"
+      },
+      {
+        "item_id": 1,
+        "text": "Sungha Jung",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_mnaZtxqN8I_gExAdnAfuxE2ILMx5tyi-FZCHVbQGNoY7A=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@sunghajung/videos"
+      }
+    ]
+  },
+  {
+    "category_id": 11,
+    "category_name": "Cozinha",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "MinuteFood",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/x8_UiguuxO1yMUqbl6ovw0ZOycvuVj6BuA1Du-OPxzs8azYl7aTHm9wGrv9liWkki9TwGnR-DQ=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@MinuteFood/videos"
+      },
+      {
+        "item_id": 2,
+        "text": "Paola",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_kjf86gk7mnUBFuyHRocbhWSW0tnhNnuwYPGwoZPgcpxIk=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@paolacarosella/videos"
+      },
+      {
+        "item_id": 3,
+        "text": "Alex Atala",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_kbMK4X4kumGeYDQQ3_xUygECuEgf-cboIekFK4GxiB5g=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@alexatala/videos"
+      }
+    ]
+  },
+  {
+    "category_id": 12,
+    "category_name": "Programação",
+    "list": []
+  },
+  {
+    "category_id": 13,
+    "category_name": "Exercício",
+    "list": [
+      {
+        "item_id": 1,
+        "text": "Pilates",
+        "type": "youtube",
+        "img": "https://i.pinimg.com/736x/e8/73/97/e87397faf400ab98ea075f8edbc03ef7.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLnUbPGComJlZw1tw-9KWwh1eQk8mA0bLZ"
+      },
+      {
+        "item_id": 2,
+        "text": "Stretching and Mobility",
+        "type": "youtube",
+        "img": "https://i.pinimg.com/736x/54/3c/29/543c2908366f363b19663335f4f5a1d4.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLnUbPGComJlYLrxO8VVP3OCAyPdEhYthh"
+      }
+    ]
+  }
+]
