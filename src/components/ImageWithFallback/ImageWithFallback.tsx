@@ -1,8 +1,5 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import Image from "next/image";
-
 type Props = {
   src: string;
   alt: string;
@@ -13,8 +10,8 @@ type Props = {
 export default function ImageWithFallback({
   src,
   alt,
-  fallbackText = "Imagem não disponível",
-}: Props) {
+}: //fallbackText = "Imagem não disponível",
+Props) {
   // const [isValid, setIsValid] = useState<boolean | null>(null);
 
   // useEffect(() => {

@@ -2,7 +2,14 @@
 import ImageWithFallback from "../ImageWithFallback/ImageWithFallback";
 import "./card.css";
 
-export default function Card({ card }) {
+export interface CardData {
+  url: string;
+  img: string;
+  text: string;
+  type?: string; // opcional, caso queiras reativar o código comentado
+}
+
+export default function Card({ card }: { card: CardData }) {
   return (
     <div className="card-image">
       <a href={card.url} target="_blanck">
