@@ -1,3 +1,5 @@
+"use client";
+
 import Category from "@/components/Category/Category";
 import categories from "../data/categoryData.json";
 import "../components/Card/card.css";

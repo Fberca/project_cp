@@ -109,10 +109,10 @@
       },
       {
         "item_id": 10,
-        "text": "Inteligência Limitada",
-        "type": "spotify",
-        "img": "https://yt3.googleusercontent.com/2GryOij-GwwiaE0MlkB-wZPYRG-wVZNsClgFQIjukKWImTAa1JS-EfJBwqsWbwIyMFJ3lGApxQ=s160-c-k-c0x00ffffff-no-rj",
-        "url": "https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=3fab97261bdd490b"
+        "text": "Choque de culture",
+        "type": "youtube",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_l1iu67Z7LRUwwe4YRcaudMtsD17vynX8Oyegk9fE8PkvY=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@tvquase/videos"
       },
       {
         "item_id": 11,
@@ -195,6 +195,13 @@
         "type": "spotify",
         "img": "https://i.scdn.co/image/ab6765630000ba8a71fef74162e2a059d504d6a3",
         "url": "https://open.spotify.com/show/7i4OI4Oi7kym2fSauBukJp?si=3e7a4910adf145fc"
+      },
+      {
+        "item_id": 6,
+        "text": "The happiness lab",
+        "type": "spotify",
+        "img": "https://e1.nmcdn.io/pushkin/wp-content/uploads/imported-files/Happiness-Lab-Website.jpg/v:1-dynamic:1-aspect:1-fit:cover/Happiness-Lab-Website--600.webp",
+        "url": "https://open.spotify.com/show/3i5TCKhc6GY42pOWkpWveG?si=77ea547674f54030"
       }
     ]
   },
